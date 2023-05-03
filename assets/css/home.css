@@ -58,10 +58,12 @@ body{
 
 .text .header {
   font-weight: bold;
+  font-size: larger;
+  
 }
 
 .text {
-  font-size: 25px;
+  font-size: 5px;
   top: 40%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -80,7 +82,7 @@ body{
 .animated-text:after {
   content: ".";
   display: inline;
-  width: 6px;
+  width: 8px;
   text-indent: 0;
   background: var(--col-icon);
   animation: blink 0.3s infinite alternate;

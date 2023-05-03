@@ -19,13 +19,13 @@ body * {
 }
 
 .cursor-dot {
-  width: 10px;
-  height: 10px;
-  background-color: #b83030f1;
+  width: 7px;
+  height: 7px;
+  background-color: #b16bf8f1;
 }
 
 .cursor-dot-outline {
-  width: 20px;
-  height: 20px;
-  background-color: rgba(211, 115, 115, 0.959);
+  width: 15px;
+  height: 15px;
+  background-color: rgba(46, 2, 117, 0.959);
 }
